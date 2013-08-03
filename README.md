@@ -1,3 +1,0 @@
-Maquetadoo
-==========
-"first commit"
